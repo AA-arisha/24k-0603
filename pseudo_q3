@@ -1,0 +1,14 @@
+START
+PRINT " Enter the two numbers to add or subtract "
+Input Num 1
+INPUT Num 2
+PRINT "Enter the operator"
+Input Operator
+WHILE Operator =='/' AND Operator = = '*'
+PRINT " This is wrong operator inter the plus or minus operator."
+Input Operator
+ENDWHILE
+SET Ans to O
+SET Ans to Num1 && Operator && Num2 .
+PRINT Ans
+END
