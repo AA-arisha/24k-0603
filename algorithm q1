@@ -1,0 +1,7 @@
+ALGORITHIM
+
+Ask user to enter divisor
+Set Answer to divisor modulus 2
+IF Answer is equal to zero then
+Display the divisor is an even number
+Else display the the divisor is an odd number
