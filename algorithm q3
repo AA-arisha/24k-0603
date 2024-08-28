@@ -1,0 +1,17 @@
+Ask the user to enter number1
+Input Num1
+Ask the user to enter any operator from (+,-,*,/,%)
+Input Operator
+Ask the user to enter number 2
+Input Num 2
+1. If operator Is equal to '+' then
+2. SET Result to Num 1 + Num 2
+3. If operator its equal to "-" then
+4. SET Result to Num 1 - Num 2
+8 If operator is equal to "*" then
+5. SET Result to Nom 1 * Num 2
+6. If operator is equal to "/" then
+7. SET Result to Num 1 /Num 2
+ If operator is equal to "%" then
+8. SET Result to Nom 1 % Num 2
+9. Display the Result for the user
