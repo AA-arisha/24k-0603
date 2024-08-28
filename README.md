@@ -14,6 +14,37 @@ IF (num1 == num2 ) THEN
     ENDIF
   ENDIF  
 else
+   IF(num2 == num3) THEN
+      IF(num2 > num1) THEN
+         PRINT "num2 and num3 are greatest"
+      else
+         PRINT "num1 is greatest"
+      ENDIF
+else
+   IF(num1 == num3) THEN
+      IF (num1 > num2) THEN
+         PRINT "num1 and num3 are greatest"
+      else
+         PRINT "num2 is greatest"
+      ENDIF
+else
+   IF (num1 > num2) THEN
+      IF (num1 > num3) THEN
+         PRINT "num1 is greatest"
+      else
+         PRINT "num3 is greatest"
+   else 
+      IF (num2 > num3) THEN
+         IF (num1 > num2) THEN
+            PRINT "num1 is greatest"
+         else 
+            PRINT "num 2 is greatest"
+      else
+         PRINT "NUM3 IS greateat"
+END
+         
+         
+   
   
   
    
