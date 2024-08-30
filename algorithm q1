@@ -1,7 +1,15 @@
 ALGORITHIM
 
-Ask user to enter divisor
-Set Answer to divisor modulus 2
+Ask user to enter divident
+Set Answer to divident modulus 2
 IF Answer is equal to zero then
-Display the divisor is an even number
-Else display the the divisor is an odd number
+Display the divident is an even number
+Else display the the divident is an odd number
+
+## Another method
+Ask user to enter number
+SET Result as integer
+Divide number by 2 and store it in Result
+multiply 2 by Result and store it in Result2
+subtract number from Result2 and store it in Result3
+If Result3 is equal to zero it means the number is even else the number is odd 
